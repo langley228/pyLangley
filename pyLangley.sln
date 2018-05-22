@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pyLangley", "pyLangley\pyLangley.pyproj", "{EA3F01AC-1B9F-4D90-8CFD-34760D79609A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA3F01AC-1B9F-4D90-8CFD-34760D79609A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3F01AC-1B9F-4D90-8CFD-34760D79609A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C3B8BE0-C144-40CC-BF74-CB20B008D831}
+	EndGlobalSection
+EndGlobal
