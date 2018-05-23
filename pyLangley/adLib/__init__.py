@@ -11,7 +11,7 @@ class AdConn(object):
     _user = ''
     _domain = ''
     _password = ''
-    _search_base=''
+    _search_base = ''
 
     def __init__(self, *args, **kwargs):
         self._server = kwargs["server"]
